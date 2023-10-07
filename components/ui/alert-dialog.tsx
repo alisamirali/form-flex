@@ -10,10 +10,6 @@ const AlertDialog = AlertDialogPrimitive.Root;
 
 const AlertDialogTrigger = AlertDialogPrimitive.Trigger;
 
-type AlertDialogPortalProps = {
-  className?: string; // The '?' makes it an optional property.
-};
-
 const AlertDialogPortal = ({
   className,
   ...props
