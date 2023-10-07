@@ -1,36 +1,32 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## FormFlex
 
-## Getting Started
+### Full Stack Form Builder using Next.js, TypeScript (with React), Dnd-Kit, PostgreSQL, Prisma, and Tailwind CSS.
 
-First, run the development server:
+————
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+#### Tech Stack for Our Web Application:
+- AppRouter integrated with Next.js 13 
+- Utilization of Dnd-kit library 
+- Implementation of ServerActions 
+- Built with TypeScript 
+- Styling using TailwindCSS and Shadcn UI 
+- Database hosted on Vercel PostgreSQL 
+- ORM powered by Prisma.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+————
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+#### Features:
+- Fully responsive
+- Design forms effortlessly with a drag-and-drop interface
+- Layout elements: Title, Subtitle, Spacer, Separator, Paragraph
+- Form fields include: Text, Number, Select, Date, Checkbox, Textarea
+- Easily add and customize additional fields
+- Preview forms with a dedicated dialog
+- Shareable form URLs
+- Supports form submission and validation
+- View form statistics: visits and submissions
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+————
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+#### Check out the website's live demo here:
+https://form-flex.vercel.app
