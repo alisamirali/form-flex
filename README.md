@@ -1,6 +1,6 @@
-## FormFlex
+# FormFlex
 
-### Full Stack Form Builder using Next.js, TypeScript (with React), Dnd-Kit, PostgreSQL, Prisma, and Tailwind CSS.
+## Full Stack Form Builder using Next.js, TypeScript (with React), Dnd-Kit, PostgreSQL, Prisma, and Tailwind CSS
 
 ————
 
@@ -8,18 +8,8 @@
 
 ————
 
-#### Tech Stack for Our Web Application:
-- AppRouter integrated with Next.js 13 
-- Utilization of Dnd-kit library 
-- Implementation of ServerActions 
-- Built with TypeScript 
-- Styling using TailwindCSS and Shadcn UI 
-- Database hosted on Vercel PostgreSQL 
-- ORM powered by Prisma.
+### Features
 
-————
-
-#### Features:
 - Fully responsive
 - Design forms effortlessly with a drag-and-drop interface
 - Layout elements: Title, Subtitle, Spacer, Separator, Paragraph
@@ -32,5 +22,18 @@
 
 ————
 
-#### Check out the website's live demo here:
-https://form-flex.vercel.app
+### Tech Stack for Our Web Application
+
+- AppRouter integrated with Next.js 13
+- Utilization of Dnd-kit library
+- Implementation of ServerActions
+- Built with TypeScript
+- Styling using TailwindCSS and Shadcn UI
+- Database hosted on Vercel PostgreSQL
+- ORM powered by Prisma.
+
+————
+
+#### Check out the website's live demo here
+
+<https://form-flex.vercel.app>
